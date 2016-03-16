@@ -174,7 +174,7 @@ const CGFloat AIRMapZoomBoundBuffer = 0.01;
 
         // If it needs to show user location, force map view centered
         // on user's current location on user location updates
-        _followUserLocation = showsUserLocation;
+        // _followUserLocation = showsUserLocation;
     }
 }
 
